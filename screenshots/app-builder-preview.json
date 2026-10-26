@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Razor Sharp Rizzo — Lawn Care & Snow Removal, Buffalo NY",
+      "hasCanvas": false,
+      "bodyTextLen": 3566,
+      "bodyTextHash": "5876d762d702eed72246f7ddc92857043962e715317a1aa8e273578fb1381e16",
+      "bodyTextPrefix": "RAZOR SHARP RIZZO & SONS SERVICES THE WORK ABOUT REVIEWS AREAS (",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Razor Sharp Rizzo — Lawn Care & Snow Removal, Buffalo NY",
+      "hasCanvas": false,
+      "bodyTextLen": 3400,
+      "bodyTextHash": "283d009ea2fa2086a2f789654a047cfcaac64bebe81460e53d01a873e75a2d89",
+      "bodyTextPrefix": "RAZOR SHARP RIZZO & SONS Open menu 01 BUFFALO, NY SHARP RESULTS.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
